@@ -1,0 +1,2 @@
+C:\Users\kseyi\CascadeProjects\TamirciDukkani.Desktop\bin\Release\net8.0-windows\win-x64\publish\TKS.pdb
+C:\Users\kseyi\CascadeProjects\TamirciDukkani.Desktop\bin\Release\net8.0-windows\win-x64\publish\TKS.exe
